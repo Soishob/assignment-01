@@ -1,0 +1,187 @@
+/* header related style */
+header{
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+    
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:50px 100px;
+    height: 530px;
+
+}
+.head-flower{
+    width: 500px;
+    
+    
+}
+.header-title{
+ color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+
+}
+.header-para{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+}
+.button-content{
+    border-radius: 5px;
+ background: #E55473;
+ padding: 20px 43px;
+ color: white;
+ border: 0;
+}
+.feature{
+    padding: 10px 50px;
+    margin: 100px;
+
+
+}
+.second-image{
+    display: flex;
+    padding: 10px 200px;
+    justify-content: space-around;
+    gap: 10px;
+}
+.para1{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 100px 78px 0px 78px;
+width: 250px;
+
+}
+.para2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 100px 78px 0px 78px;
+width: 250px;
+}
+.para3{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 100px 78px 0px 78px;
+width: 250px;
+
+
+}
+.devilery{
+    border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+
+}
+.devilery2{
+    padding: 0px 30px;
+    display: inline-block;
+    display:flex;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.price{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    padding: 100px 330px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.column1{
+    text-align: center;
+}
+.second-img{
+    width: 200px;
+}
+.second-para{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding: 0px 100px;
+}
+.span-color{
+    color: #E55473;
+}
+.same-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 30px;
+font-weight: 800;
+}
+#inta{
+    padding: 10px 300px;
+}
+.main-image{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+    padding: 128px 240px ;
+
+    
+}
+.insta{
+    margin: 0;
+    margin-top: 100px;
+    
+}
+.deals{
+    background-image:url('../assets/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    width:1350px;
+    height: 400px;
+    background-position: center;
+    padding: 128px 240px ;
+    justify-content: space-between;
+    text-align: center;
+   
+}   
+.inpu{
+    margin-bottom: 24px;
+    padding: 18px 30px;
+    border-radius: 5px;
+    background: #FFF;
+    border: 0;
+    width: 461px;
+} 
+.futur{
+    padding: 110px 600px;
+    background: #111010;
+}
+.flow{
+    color: #E55473;
+}
+.last{
+    color: #FFF;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.sesh{
+    text-align: justify;
+    font-size: 16px;
+font-weight: 400;
+color: antiquewhite;
+}
